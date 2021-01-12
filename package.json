@@ -1,7 +1,7 @@
 {
   "name": "ClinicalBook",
   "version": "0.0.1",
-  "homepage": "https://clinical-2ibfgt1za.vercel.app/login",
+  "homepage": "https://clinical-book.vercel.app/login",
   "main": "index.js",
   "author": "PoliUsp",
   "license": "None",

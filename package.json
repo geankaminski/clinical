@@ -1,6 +1,7 @@
 {
   "name": "ClinicalBook",
   "version": "0.0.1",
+  "homepage": "https://clinical-2ibfgt1za.vercel.app/login",
   "main": "index.js",
   "author": "PoliUsp",
   "license": "None",
@@ -84,6 +85,7 @@
     "react-immutable-proptypes": "^2.2.0",
     "react-number-format": "^4.4.1",
     "react-pdf": "^5.1.0",
+    "react-pdf-js-infinite": "^1.2.0",
     "react-redux": "^7.2.0",
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",

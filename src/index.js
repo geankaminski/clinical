@@ -16,7 +16,7 @@ render(
   <Provider store={store}>
     <ConnectedRouter history={history}>
       <CssBaseline />
-      <Router />
+      <Router basename="/login" />
     </ConnectedRouter>
   </Provider>,
   document.getElementById('root'));

@@ -1,2 +1,1 @@
-#root{height:100vh;background:linear-gradient(to bottom, #feffff, #d3f0ed)}
-
+html{height:100%}body{min-height:100%;background-size:cover;background-repeat:no-repeat;background:linear-gradient(180deg,#feffff,#d3f0ed) fixed}
